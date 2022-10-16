@@ -38,7 +38,7 @@
 <h2><i>Connect With me</i></h2>
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/aman-deep-kujur-4a110a171" target="_blank">
+    <a title="aman-deep-kujur-4a110a171" href="https://www.linkedin.com/in/aman-deep-kujur-4a110a171" target="_blank">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
     </a>
     <a title="adkofficial01@gmail.com" href="mailto:adkofficial01@gmail.com" target="_blank">
