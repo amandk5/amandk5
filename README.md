@@ -35,3 +35,13 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+<h2><i>Connect With me</i></h2>
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/aman-deep-kujur-4a110a171" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
+    </a>
+    <a title="adkofficial01@gmail.com" href="adkofficial01@gmail.com" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="adkofficial01@gmail.com" />
+    </a>
+</p>
