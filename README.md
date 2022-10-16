@@ -1,5 +1,4 @@
-
-![mi perfil](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)
+<img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" width="100%"/>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Aman Deep Kujur </h1>
 <h4 align="center">I'm a Passionate and Dedicated Full Stack Web developer skilled in MERN Stack ✨.</h4>
