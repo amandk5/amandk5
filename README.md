@@ -61,7 +61,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amandk5&show_icons=true&locale=en&layout=compact&theme=react" alt="amandk5" backgroundColor="#20232A" /></p>
 
-<div style="display:flex;flex-wrap:wrap;justify-content:space-between;width:100%">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=amandk5&show_icons=true&locale=en&theme=react" alt="amandk5"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amandk5&theme=tokyonight" alt="amandk5"/>
-</div>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=amandk5&show_icons=true&locale=en&theme=react" alt="amandk5"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amandk5&theme=tokyonight" alt="amandk5"/></p>
+
